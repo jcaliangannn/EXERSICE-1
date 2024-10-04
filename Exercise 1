@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+<style >
+body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
+.w3-bar-block .w3-bar-item {padding:20px}
+</style>
+</head>
+<body>
+  
+
+
+
+<div class="w3-top">
+  <div class="w3-white w3-xxlarge" style="max-width:1200px;margin:auto">
+    
+    <div class="w3-center w3-padding-16">GROUP 11</div>
+  </div>
+</div>
+  
+
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+
+ 
+  
+  <div class="w3-row-padding w3-padding-16 w3-center" id="karma">
+    <div class="w3-quarter">
+      <img src="https://assets.onecompiler.app/42qd9nxeu/42qd9juct/456925401_524511976614261_6923122486961460470_n.jpg" alt="" style="width:100%">
+      <h3>Arevalo, Erieyl I.</h3>
+      <p>"</p>
+     <p>21 y/old | IT3-O</p>
+    </div>
+    <div class="w3-quarter">
+      <div></div>
+      <img src="https://assets.onecompiler.app/42qd9nxeu/42qd9juct/454620469_1189815828904392_3151661972724669368_n.jpg" alt="" style="width:100%">
+      <h3>Aliangan, Jude Cedric M.</h3>
+<p>"</p>
+      <p>20 y/old | IT3-O</p>
+    </div>
+    
+    <div class="w3-quarter">
+      <img src="https://assets.onecompiler.app/42qd9nxeu/42qd9juct/d9cecbd2-5fac-4a43-83e7-b0b7cb72d8e6.jfif" alt="" style="width:100%">
+      <h3>Cummings, Janver Karl L.</h3>
+<p>"</p>
+      <p>24 y/old | IT3-O</p>
+    </div>
+    
+    <div class="w3-quarter">
+      <img src="https://assets.onecompiler.app/42qd9nxeu/42qd9juct/455240888_3850642345254673_5444208647268458927_n.jpg" alt="" style="width:100%">
+      <h3>Aragones, Angelo Joshua J.</h3>
+      <p>22 y/old | IT3-O</p>
+    </div>
+    
+  </div>
+  
+
+
+ 
+  <div class="w3-center w3-padding-32">
+    <div class="w3-bar">
+      <a href="" class="w3-bar-item w3-button w3-hover-black">«</a>
+      <a href="https://www.facebook.com/Ryl.Rsm" class="w3-bar-item w3-black w3-button">1</a>
+      <a href="https://www.facebook.com/jc.aliangan16" class="w3-bar-item w3-button w3-hover-black">2</a>
+      <a href="https://www.facebook.com/jnvrcmmngs/" class="w3-bar-item w3-button w3-hover-black">3</a>
+      <a href="https://www.facebook.com/angelo.aragones.9" class="w3-bar-item w3-button w3-hover-black">4</a>
+      <a href="" class="w3-bar-item w3-button w3-hover-black">»</a>
+    </div>
+  </div>
+  
+  <hr id="about">
+
+
+  <div class="w3-container w3-padding-32 w3-center">  
+    <h3>About Us</h3><br>
+      <h4><b>We Are The Group 11</b></h4>
+      <h6><i>With Passion For Being IT Students</i></h6>
+      <p>We are a group of four men who will conquer the challenges of this semester</p>
+    </div>
+  </div>
+  <hr>
+  
+  
+  
+    
+
+    
+
+
+
+</body>
+</html>
